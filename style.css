@@ -1,10 +1,18 @@
+/* Color Palette:
+   #f9f9f9 - Light Gray
+   #333333 - Dark Gray
+   #1e1e1e - Almost Black
+   #ffffff - White
+   #007bff - Blue
+*/
+
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    line-height: 1.6;
-    background-color: #f9f9f9;
-    color: #333;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
   
   header {
     text-align: center;
@@ -29,4 +37,3 @@ body {
     border-bottom: 2px solid #ddd;
     padding-bottom: 5px;
   }
-  
